@@ -9,4 +9,4 @@
 ### server internet speed
 ```sudo apt install speedtest-cli``` <i>only to install once</i> <br><br>
 ``` speedtest-cli ``` <i>speed in MegaBits</i> <br><br>
-```speedtest-cli --simple | awk '/Download/{printf "Download: %.2f MB/s\n", $2/8} /Upload/{printf "Upload: %.2f MB/s\n", $2/8}' ``` <i>speed in megabytes</i> <br><br>
+```speedtest-cli --bytes ``` <i>speed in megabytes</i> <br><br>
