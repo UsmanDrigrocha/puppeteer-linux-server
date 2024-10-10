@@ -10,3 +10,7 @@
 ```sudo apt install speedtest-cli``` <i>only to install once</i> <br><br>
 ``` speedtest-cli ``` <i>speed in MegaBits</i> <br><br>
 ```speedtest-cli --bytes ``` <i>speed in megabytes</i> <br><br>
+
+
+```git reset --hard origin/master``` <i>// work like git pull -f</i>
+
