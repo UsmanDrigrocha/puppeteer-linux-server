@@ -13,4 +13,5 @@
 
 
 ```git reset --hard origin/master``` <i>// work like git pull -f</i>
-
+<br><br>
+```git clone git@github.com:<username>/<repo>.git``` // git clone 
