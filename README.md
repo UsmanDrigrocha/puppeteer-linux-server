@@ -15,3 +15,7 @@
 ```git reset --hard origin/master``` <i>// work like git pull -f</i>
 <br><br>
 ```git clone git@github.com:<username>/<repo>.git``` // git clone 
+<br>
+``` lsof -i :PORT``` // get list of all process
+<br><br>
+``` kill PID ```
