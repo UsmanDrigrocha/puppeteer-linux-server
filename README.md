@@ -19,3 +19,7 @@
 ``` lsof -i :PORT``` // get list of all process
 <br><br>
 ``` kill PID ```
+<br><br>
+### PM2 search
+```grep "search" /root/.pm2/logs/main-error.log ```
+```grep "search" /root/.pm2/logs/main-out.log```
