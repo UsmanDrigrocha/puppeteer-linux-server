@@ -23,3 +23,15 @@
 ### PM2 search
 ```grep "search" /root/.pm2/logs/main-error.log ```
 ```grep "search" /root/.pm2/logs/main-out.log```
+
+<br><br><br>
+GoDaddy Sub Domain
+``` Fill in the DNS Record:
+
+Type: A
+
+Name: subDomain
+
+Value: 1111.1111 (replace with your actual server IP)
+
+TTL: Keep default (1 hour is fine)```
