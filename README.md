@@ -30,7 +30,7 @@ GoDaddy Sub Domain
 
 Type: A
 
-Name: subDomain
+Name: subDomain // 2nd for www.subDomain
 
 Value: 1111.1111 (replace with your actual server IP)
 
