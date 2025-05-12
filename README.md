@@ -26,7 +26,8 @@
 
 <br><br><br>
 GoDaddy Sub Domain
-``` Fill in the DNS Record:
+```
+Fill in the DNS Record:
 
 Type: A
 
@@ -34,4 +35,8 @@ Name: subDomain // 2nd for www.subDomain
 
 Value: 1111.1111 (replace with your actual server IP)
 
-TTL: Keep default (1 hour is fine)```
+TTL: Keep default (1 hour is fine)
+ ```
+
+<br>
+Linux move all screenshots to specif folder ``` mv screenshot_*.png ../uploads/```
